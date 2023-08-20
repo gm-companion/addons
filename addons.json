@@ -3,7 +3,7 @@
         "id": "dsa-addon",
         "name": "Das Schwarze Auge",
         "name_short": "DSA",
-        "author": "Phil Hoffmann",
+        "author": "GM-Companion Team",
         "description": "Inoffizielles Fan-Addon für Das Schwarze Auge.\n\nDisclaimer:\nDAS SCHWARZE AUGE, AVENTURIEN, DERE, MYRANOR, THARUN, UTHURIA, RIESLAND und THE DARK EYE sind eingetragene Marken der Ulisses Spiele GmbH, Waldems.",
         "releases": [
             {
@@ -11,6 +11,21 @@
                 "compatibility": 1,
                 "source": "https://github.com/gm-companion/addon-dsa",
                 "download": "https://github.com/gm-companion/addon-dsa/archive/refs/tags/1.0.zip"
+            }
+        ]
+    },
+    {
+        "id": "audio-lib",
+        "name": "Audio Library",
+        "name_short": "AudioLib",
+        "author": "GM-Companion Team",
+        "description": "A collection of playlists.\nNote: Currently only contains Spotify playlists.",
+        "releases": [
+            {
+                "version": "1.0",
+                "compatibility": 1,
+                "source": "https://github.com/gm-companion/addon-audio-library",
+                "download": "https://github.com/gm-companion/addon-audio-library/archive/refs/tags/1.0.zip"
             }
         ]
     }
